@@ -12,7 +12,7 @@ import java.io.IOException;
 import java.util.Scanner;
 
 public class ManipulaArchivo {
-	// Objeto para el archico que voy a manipular
+	// Objeto para el archivo que voy a manipular
 	protected File file;
 
 	/**

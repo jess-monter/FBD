@@ -1,6 +1,10 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
+/**
+ * PruebaChofer.java
+ * Clase que se encarga de implementar la funcionalidad del sistema.
+ */
 public class PruebaChofer{
 
   public static void main(String[] args) {
