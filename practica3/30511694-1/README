@@ -1,0 +1,14 @@
+Integrantes del equipo:
+305116941 Jessica Monter Gallardo
+309223674 Nestor Jesus Real Estrada
+308071087 Gibran Aguilar Zuñiga
+310226682 Daniel Ramírez Delgado
+
+Para correr la práctica:
+
+1.- Abrir una terminal.
+2.- Entrar a la carpeta ../305116941/src
+3.- Escribir el comando javac PruebaChofer.java, dar enter.
+4.- Escribir el comando java PruebaChofer, dar enter.
+5.- Escribir el número de la opción deseada mostrado en el menú, dar enter.
+
